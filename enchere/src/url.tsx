@@ -1,0 +1,1 @@
+export const link = "https://projet-enchere-final-production-b61f.up.railway.app/venteenchere"
